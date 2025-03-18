@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c70f3f2a-6b5d-4693-a146-decdd68fbdcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/100_days_course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28_tkinter_timer/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28_tkinter_timer/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_pandas_csv/data/french_words.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_pandas_csv/images/card_back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_pandas_csv/images/card_front.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_pandas_csv/images/right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_pandas_csv/images/wrong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_pandas_csv/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31_pandas_csv/words_to_learn.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32_emailsender_smtplib/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33_API_iss/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33_API_iss/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_API_quizz/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_API_quizz/images/false.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_API_quizz/images/true.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_API_quizz/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_API_quizz/question_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_API_quizz/quiz_brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34_API_quizz/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35_API_weather/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39_uncomplete/flight-deals-start/data_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39_uncomplete/flight-deals-start/flight_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39_uncomplete/flight-deals-start/flight_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39_uncomplete/flight-deals-start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/39_uncomplete/flight-deals-start/notification_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/46_API_spotify/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48_selenium/game_bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/48_selenium/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/53_webscraping_capstone/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/55_flask/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/html5up-identity/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/html5up-identity/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/angela/angela.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/angela/chillies.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/angela/cloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/angela/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/angela/mountain.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/angela/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie8.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie9 - Copy.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/ie9.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/main.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/12a6f86b5e4aa64fcb14102de616aea4d622c84f/noscript.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_functions.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_mixins.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_skel.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/67a30392a9c4d42ed248c6b1404813d02df84637/_vars.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_copyright.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_footer.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_main.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/7e789d186c055861f24133e1b9885bb81c49b2aa/_wrapper.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_button.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_form.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_icon.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/cf0bea95a132a2d2ad494712665ec6344019307b/_list.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/fdfbe966239fea8d85b20cc3e91511822b0ce989/_page.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/.sass-cache/fdfbe966239fea8d85b20cc3e91511822b0ce989/_typography.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/css/ie8.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/css/ie9.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/css/images/overlay.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/css/noscript.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/js/PIE.htc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/js/html5shiv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/js/respond.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/base/_page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/components/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/components/_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/components/_icon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/components/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/ie8.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/ie9.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/layout/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/layout/_wrapper.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/libs/_functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/libs/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/libs/_skel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/libs/_vars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_assets/sass/noscript.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_images/avatar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/html5up_images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/static/my_styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/templates/angela_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/templates/html5up_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/56_flask_personalsite/templates/my_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57_flask-jinja/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57_flask-jinja/post.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57_flask-jinja/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57_flask-jinja/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/57_flask-jinja/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.0 Bootstrap Intro/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.0 Bootstrap Intro/static/flower.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.0 Bootstrap Intro/static/goal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.0 Bootstrap Intro/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.0 Bootstrap Intro/templates/solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/box-seam.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/briefcase.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/bus-front.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/chat-square-heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/chevron-right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/couple.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/family.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/moving-van.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/solution.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/58_bootstrap/11.2 Bootstrap Components/website-text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/blog-data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/static/assets/img/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/static/assets/img/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/static/assets/img/home-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/static/assets/img/post-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/static/assets/img/post-sample-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/59_jinja_partial_html/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/static/assets/img/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/static/assets/img/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/static/assets/img/home-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/static/assets/img/post-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/static/assets/img/post-sample-image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/blog_upgrade/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/60_http_form_post/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61_flask_wtf/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61_flask_wtf/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61_flask_wtf/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61_flask_wtf/templates/denied.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61_flask_wtf/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61_flask_wtf/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61_flask_wtf/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/61_flask_wtf/templates/success.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62_flask_wtf_boostrap_csv/cafe-data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62_flask_wtf_boostrap_csv/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62_flask_wtf_boostrap_csv/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62_flask_wtf_boostrap_csv/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62_flask_wtf_boostrap_csv/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62_flask_wtf_boostrap_csv/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62_flask_wtf_boostrap_csv/templates/cafes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/62_flask_wtf_boostrap_csv/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63_flask_SQLite/flask_sqlalchemy_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63_flask_SQLite/instance/books_database.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63_flask_SQLite/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63_flask_SQLite/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63_flask_SQLite/sqlite_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63_flask_SQLite/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63_flask_SQLite/templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/63_flask_SQLite/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/instance/movies.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/templates/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/templates/select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66_flask_RESTful_API/instance/cafes.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66_flask_RESTful_API/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66_flask_RESTful_API/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66_flask_RESTful_API/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/instance/posts.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/static/assets/img/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/static/assets/img/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/static/assets/img/edit-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/static/assets/img/home-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/static/assets/img/post-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/templates/make-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/67_RESTful/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68_authentiation/instance/users.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68_authentiation/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68_authentiation/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68_authentiation/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68_authentiation/static/files/cheat_sheet.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68_authentiation/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68_authentiation/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68_authentiation/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68_authentiation/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/68_authentiation/templates/secrets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/instance/blog.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/instance/posts_arch.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/assets/img/about-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/assets/img/angela-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/assets/img/contact-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/assets/img/default-profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/assets/img/edit-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/assets/img/home-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/assets/img/login-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/assets/img/post-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/assets/img/register-bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/static/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/templates/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/templates/footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/templates/header.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/templates/make-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/templates/post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/69_blog_authentication/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/70_git/mkdir" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_flask_template/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_flask_template/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_0_flask_template/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "blazejchojnacki"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/blazejchojnacki/100_days_of_code.git",
+    "accountId": "1ea0952a-35f7-435d-9a59-c6984cfe1947"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2swxvjMpYyMAGN273xmopFKbKY1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.main (1).executor": "Run",
+    "Python.main (2).executor": "Run",
+    "Python.main (3).executor": "Run",
+    "Python.main (4).executor": "Debug",
+    "Python.main (5).executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.server.executor": "Run",
+    "Python.sqlalchemy_demo.executor": "Debug",
+    "Python.sqlite_demo.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "P:/coding/100_days_course/63_flask_SQLite/templates",
+    "settings.editor.selected.configurable": "configurable.group.tools"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\coding\100_days_course\63_flask_SQLite\templates" />
+      <recent name="P:\coding\100_days_course" />
+      <recent name="P:\coding\100_days_course\58_bootstrap" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="P:\coding\100_days_course\59_bootstrap2\static" />
+      <recent name="P:\coding\100_days_course\59_bootstrap2" />
+      <recent name="P:\coding\100_days_course\59_bootstrap2\templates" />
+      <recent name="P:\coding\100_days_course\58_bootstrap\11.0 Bootstrap Intro\static" />
+      <recent name="P:\coding\100_days_course\58_bootstrap\11.0 Bootstrap Intro\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (2)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/68_authentiation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/68_authentiation/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/69_blog_authentication" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/69_blog_authentication/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/66_flask_RESTful_API" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/66_flask_RESTful_API/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100_days_course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/67_RESTful" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/67_RESTful/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main (2)" />
+        <item itemvalue="Python.main (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.main (5)" />
+        <item itemvalue="Python.main (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c70f3f2a-6b5d-4693-a146-decdd68fbdcf" name="Changes" comment="" />
+      <created>1739380671067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739380671067</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/60_http_form_post/blog_upgrade/main.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/63_flask_SQLite/main.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/63_flask_SQLite/main.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/main.py</url>
+          <line>108</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/main.py</url>
+          <line>107</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="request" language="Python" />
+        <watch expression="user" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

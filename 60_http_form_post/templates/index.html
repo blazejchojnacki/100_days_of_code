@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="static/styles.css">
+</head>
+<body>
+    <h1>simple form</h1>
+    <form action="{{ url_for('receive_data') }}" method="post">
+        <label for="name">Name:</label>
+        <input id="name" name="name_input" type="text" placeholder="your name">
+        <label for="number">a number:</label>
+        <input id="number" name="number_input" type="number" placeholder="your number">
+        <button type="submit">submit</button>
+    </form>
+</body>
+</html>
