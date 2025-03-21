@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c70f3f2a-6b5d-4693-a146-decdd68fbdcf" name="Changes" comment="">
+    <list default="true" id="c70f3f2a-6b5d-4693-a146-decdd68fbdcf" name="Changes" comment="day71 start files">
+      <change afterPath="$PROJECT_DIR$/71_gunicorn_hosting_postgreSQL/Procfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/70_git/mkdir" beforeDir="false" afterPath="$PROJECT_DIR$/70_git/mkdir" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/70_git/mkdir/file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/70_git/mkdir/file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/71_gunicorn_hosting_postgreSQL/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/71_gunicorn_hosting_postgreSQL/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,7 @@
       <recent name="P:\coding\100_days_course\58_bootstrap\11.0 Bootstrap Intro\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main (2)">
+  <component name="RunManager" selected="Python.main (3)">
     <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_days_course" />
       <option name="ENV_FILES" value="" />
@@ -123,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100_days_course" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/71_gunicorn_hosting_postgreSQL" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/64_flask_WTForms_SQLite_SQLAlchemy/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/71_gunicorn_hosting_postgreSQL/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (3)" />
         <item itemvalue="Python.main (2)" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.main (5)" />
-        <item itemvalue="Python.main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +215,20 @@
       <option name="presentableId" value="Default" />
       <updated>1739380671067</updated>
     </task>
+    <task id="LOCAL-00001" summary="day71 start files">
+      <option name="closed" value="true" />
+      <created>1742586055243</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742586055243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day71 start files" />
+    <option name="LAST_COMMIT_MESSAGE" value="day71 start files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
